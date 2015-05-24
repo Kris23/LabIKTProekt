@@ -1,0 +1,9 @@
+#pocetna strana
+
+prikazuvanje na sodrzina za kolku sredstva poseduva korisnikot
+
+moznost za vnesuvanje sredstva
+
+dodavanje na proizvodi sto se kupeni
+
+dodavanje na proizvodi koi korisnikot saka da si gi kupi

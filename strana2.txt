@@ -1,0 +1,3 @@
+#Istorija
+
+prikazuvanje na istorijata na potrosenite paricni sredtva po meseci, nedeli i denovi
