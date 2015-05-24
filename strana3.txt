@@ -1,0 +1,3 @@
+#Profil	
+
+prikazuvanje na podatocite za korisnikot so moznost za menuvanje
